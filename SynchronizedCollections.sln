@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizedCollections", "SynchronizedCollections\SynchronizedCollections.csproj", "{4593FF6F-C94F-44C2-B47F-06699ABDDF16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizedListsUnitTestProject", "SynchronizedListsUnitTestProject\SynchronizedListsUnitTestProject.csproj", "{8447541B-17D5-42B3-BC32-2B5DDC209349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4593FF6F-C94F-44C2-B47F-06699ABDDF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4593FF6F-C94F-44C2-B47F-06699ABDDF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4593FF6F-C94F-44C2-B47F-06699ABDDF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4593FF6F-C94F-44C2-B47F-06699ABDDF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8447541B-17D5-42B3-BC32-2B5DDC209349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8447541B-17D5-42B3-BC32-2B5DDC209349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8447541B-17D5-42B3-BC32-2B5DDC209349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8447541B-17D5-42B3-BC32-2B5DDC209349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
